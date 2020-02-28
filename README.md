@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing minimizes the number of times the page reloads and only changes when changes to the page are needed. Users get a much smoother web experience as they get the appearance of multi-page websites without the wait for a response from the server.
 
 ## Project Set Up
 
